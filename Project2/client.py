@@ -3,7 +3,7 @@ import threading
 from tkinter import *
 
 PORT = 51000
-SERVER = "192.168.0.106"
+SERVER = "192.168.0.107"
 ADDRESS = (SERVER, PORT)
 FORMAT = "utf-8"
 
